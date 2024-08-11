@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/CustomButton.jsx", "app/(onboard)/onboard-one.jsx", "app/index.jsx", "app/_layout.jsx", "components/FormField.jsx", "app/(tabs)/profile.jsx", "app/(tabs)/home.jsx", "app/(tabs)/history.jsx", "app/(tabs)/_layout.jsx", "app/(onboard)/_layout.jsx", "app/(onboard)/onboard-three.jsx", "app/(onboard)/onboard-two.jsx", "app/(auth)/sign-up.jsx", "app/(auth)/sign-in.jsx", "app/(auth)/_layout.jsx"  ]
 }
